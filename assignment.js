@@ -1,4 +1,4 @@
-
+// https://github.com/Timittra/assignment
 //conversion of kilometer to meter (first function)
 function kilometerToMeter(kilometer){
     var meter = 0;
